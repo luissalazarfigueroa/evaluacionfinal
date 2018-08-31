@@ -28,7 +28,7 @@
 }
 
 .portada{
-  background: linear-gradient(0deg, rgba(26, 96, 198  , 0.2) 0%, rgba(29, 39, 49, 0.95) 90%), url("img/bg.jpg");
+  background: linear-gradient(0deg, rgba(26, 96, 198  , 0.9) 0%, rgba(29, 39, 49, 0.7) 70%), url("img/bg.jpg");
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: 100% auto;
